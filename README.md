@@ -1,2 +1,5 @@
 # music-barrage
-Barrage plain-language clone of fitzyracing1/music
+
+Barrage clone of [fitzyracing1/music](https://github.com/fitzyracing1/music).
+
+Read [listing.barrage](listing.barrage).
